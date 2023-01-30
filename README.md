@@ -1,6 +1,15 @@
 # 💫 About Me:
 ⚡Hello! As a Biomedical Engineer with a passion for addressing real-world social issues, I am currently focused on developing quantitative diagnosis methods for Parkinson's disease. <br>
 🌱I am in the process of completing my PhD in Applied Sciences and Engineering, where I have been using non-linear mathematical models and artificial intelligence to analyze physiological and pathological patterns in human movement.<br>💬 You can reach me at my [e-mail address](mailto:giabianchi@unsam.edu.ar?subject=Hello!) or visit my [lab page](http://labning.com.ar/) <br><br> [![LabNIng](http://labning.com.ar/images/logo-light.png)](http://labning.com.ar/) 
+Some of my skills and techs:
+<ul>
+  <li>Development of hardware and software for digital biomedical signals acquisition and digital processing.</li>
+  <li>Development of mathematical methods for signal analysis in complex systems (Matlab, Python).</li>
+  <li>Development of machine learning algorithms for regression, classification and pattern recognition (Python, Pandas, Scipy, Scikit-Learn, Keras).</li>
+  <li>Development of embedded electronics firmware for control and processing of electrical signals (C, C++).</li>
+  <li>Design and manufacture of printed circuit boards through cad software (Altium Designer).</li>
+  <li>3D modeling and manufacturing (3D Printing, Fusion360).</li>
+</ul>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gianfrancobianchi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gianchi92) 
@@ -10,9 +19,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Gianchi92&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gianchi92&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravencrow92&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Gianchi92&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gianchi92&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
