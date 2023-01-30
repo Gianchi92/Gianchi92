@@ -1,7 +1,9 @@
 # 💫 About Me:
 ⚡Hello! As a Biomedical Engineer with a passion for addressing real-world social issues, I am currently focused on developing quantitative diagnosis methods for Parkinson's disease. <br>
-🌱I am in the process of completing my PhD in Applied Sciences and Engineering, where I have been using non-linear mathematical models and artificial intelligence to analyze physiological and pathological patterns in human movement.<br>💬 You can reach me at my [e-mail address](mailto:giabianchi@unsam.edu.ar?subject=Hello!) or visit my [lab page](http://labning.com.ar/) <br><br> [![LabNIng](http://labning.com.ar/images/logo-light.png)](http://labning.com.ar/) 
-Some of my skills and techs:
+
+🌱I am in the process of completing my PhD in Applied Sciences and Engineering, where I have been using non-linear mathematical models and artificial intelligence to analyze physiological and pathological patterns in human movement.<br>
+
+👨‍🔬 Some of my skills and techs:
 <ul>
   <li>Development of hardware and software for digital biomedical signals acquisition and digital processing.</li>
   <li>Development of mathematical methods for signal analysis in complex systems (Matlab, Python).</li>
@@ -10,6 +12,8 @@ Some of my skills and techs:
   <li>Design and manufacture of printed circuit boards through cad software (Altium Designer).</li>
   <li>3D modeling and manufacturing (3D Printing, Fusion360).</li>
 </ul>
+💬 You can reach me at my [e-mail address](mailto:giabianchi@unsam.edu.ar?subject=Hello!) or visit my [lab page](http://labning.com.ar/) <br><br> [![LabNIng](http://labning.com.ar/images/logo-light.png)](http://labning.com.ar/) 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gianfrancobianchi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gianchi92) 
